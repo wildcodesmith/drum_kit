@@ -25,8 +25,11 @@ body{
     font-size: 20px;
     background-color: rgba(135, 129, 129, 0.4);
     transition: all linear 0.2s;
+    border:2px outset white;
     border-radius: 25px;
     color:white;
+border-bottom-color: rgb(203, 202, 202);
+border-right-color: rgb(203, 202, 202);
 
     
     
